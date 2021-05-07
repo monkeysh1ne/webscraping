@@ -1,3 +1,2 @@
 node_modules/**
-.~lock.recipe.csv#
-*.csv
+*.csv*
